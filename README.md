@@ -6,7 +6,10 @@ um pouco dos estudos de marketing digital
 PROCESSO DE MARKETING
 
 
-	Criar Valor
+#	Criar Valor
+	
+	
+	
 	    |
 1 Entender Necessidades
   1.1 Necessidades, desejos e demandas
