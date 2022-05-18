@@ -11,7 +11,7 @@ PROCESSO DE MARKETING
 	
 	
 	    
-1 Entender Necessidades
+* 1 Entender Necessidades
   1.1 Necessidades, desejos e demandas
   1.2 Produtos, serviços e experiências
   1.3 Valor e satisfação
